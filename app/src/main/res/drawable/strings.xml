@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AkmalPharmApp</string>
+    <string name="button">Button</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="not_created_an_account">Not created an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

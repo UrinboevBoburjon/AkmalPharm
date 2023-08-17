@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AkmalPharm</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="not_created_an_account">Not created an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="passwordFill">************</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="jovanovic">Jovanovic</string>
+    <string name="stefan">Stefan</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map_fragment">MapFragment</string>
+    <string name="_50_sales">50% Sales</string>
+    <string name="desc">In pharmacology, a drug is a chemical substance, typically of known structure, which, when administered to a living organism, produces a biological effect.[3] A pharmaceutical drug, also called a medication or medicine, is a chemical substance used to treat, cure, prevent, or diagnose a disease or to promote   well-being</string>
+</resources>
